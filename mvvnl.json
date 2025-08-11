@@ -29,16 +29,23 @@
     },
     {
         "device_id": "45ed64d9bb9dd760",
-        "username": "demo171",
-        "password": "123",
-        "expirydate": "11-08-2025",
+        "username": "Jem",
+        "password": "1234",
+        "expirydate": "11-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "61d5ad975eb07034",
         "username": "demo172",
         "password": "123",
-        "expirydate": "11-08-2025",
+        "expirydate": "10-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0f45d22208d98c20",
+        "username": "yupendra",
+        "password": "123",
+        "expirydate": "21-08-2025",
         "Allowoffline": false
     }
 ]
